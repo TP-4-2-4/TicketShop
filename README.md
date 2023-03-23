@@ -15,6 +15,5 @@
 * биржа обмена билетов с другими пользователями
  
 [Miro]( https://miro.com/app/board/uXjVPi8gZWo=/?share_link_id=370845836904 )                
-[Trello]( https://trello.com/b/195Q1ozD/cityconcert)
-
-[ТЗ]( https://docs.google.com/document/d/13faYjmaYqgi6ies_QSFkYU9CA-e7MBHZFCWJrJR-22Q/edit?usp=sharing)
+[Trello]( https://trello.com/b/195Q1ozD/cityconcert )
+[ТЗ]( https://docs.google.com/document/d/1A7IazincWtEqjZ5mMCLkeRNx7GItmhxB3Ric-SNuVvY/edit )
