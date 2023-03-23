@@ -18,3 +18,4 @@
 [Trello]( https://trello.com/b/195Q1ozD/cityconcert )  
 
 [ТЗ]( https://docs.google.com/document/d/1A7IazincWtEqjZ5mMCLkeRNx7GItmhxB3Ric-SNuVvY/edit )
+[Figma]( https://www.figma.com/file/9mDobyzAV7fCjSrQzZKU9i/FirstPrototype?node-id=0-1&t=t0tVu01hCvEaIKLX-0 )
