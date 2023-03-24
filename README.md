@@ -1,5 +1,5 @@
 # ТП 4.2.4
-Приложение "Ticket Shop"
+Приложение "CityConcert"
 
 Студенты:
 * [Быков Максим]( https://github.com/SummerFreezingMe " Быков Максим ")
@@ -10,7 +10,7 @@
 Тема: Проведение концертов на различных площадках и продажа электронных билетов на эти концерты
 
 Фичи:  
-* поиск компании на мероприятие
+* поиск компании людей на мероприятие
 * раздел "рекомендации", составляемый согласно посещённым пользователем мероприятиям
 * биржа обмена билетов с другими пользователями
  
@@ -18,4 +18,4 @@
 [Trello]( https://trello.com/b/195Q1ozD/cityconcert )  
 
 [ТЗ]( https://docs.google.com/document/d/1A7IazincWtEqjZ5mMCLkeRNx7GItmhxB3Ric-SNuVvY/edit )
-[Figma]( https://www.figma.com/file/9mDobyzAV7fCjSrQzZKU9i/FirstPrototype?node-id=0-1&t=t0tVu01hCvEaIKLX-0 )
+[Figma]( https://www.figma.com/file/9mDobyzAV7fCjSrQzZKU9i/FirstPrototype?node-id=0%3A1&t=8eapKZ2h4iOWhbOM-1 )
