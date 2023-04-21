@@ -18,7 +18,7 @@
 ### Вспомогательные сервисы:
 - [Miro]( https://miro.com/app/board/uXjVPi8gZWo=/?share_link_id=370845836904 )                
 - [Trello]( https://trello.com/b/195Q1ozD/cityconcert )
-- [Figma]( https://www.figma.com/file/9mDobyzAV7fCjSrQzZKU9i/FirstPrototype?node-id=0%3A1&t=8eapKZ2h4iOWhbOM-1 )
+- [Figma]( https://www.figma.com/file/lwMNjHdzFgPeT2C35ciW1V/App?t=jl7c1NWofg3D6o0b-1 )
 
 ### Документация:
 - [Техническое задание]( https://github.com/SummerFreezingMe/TicketShop/blob/main/Документация/Техническое%20задание.pdf ) 
