@@ -15,10 +15,15 @@
 * раздел "рекомендации", составляемый согласно посещённым пользователем мероприятиям
 * биржа обмена билетов с другими пользователями
 
+### Модули приложения:
+* [Frontend](https://github.com/TP-4-2-4/CityConcert_Frontend)
+* [Backend](https://github.com/TP-4-2-4/CityConcert_Backend)
+* [Deploy](https://github.com/TP-4-2-4/CityConcert_Deploy)
+
 ### Вспомогательные сервисы:
 - [Miro]( https://miro.com/app/board/uXjVPi8gZWo=/?share_link_id=370845836904 )                
 - [Trello]( https://trello.com/b/195Q1ozD/cityconcert )
-- [Figma]( https://www.figma.com/file/lwMNjHdzFgPeT2C35ciW1V/App?t=jl7c1NWofg3D6o0b-1 )
+- [Figma (Интерактивный макет)]( https://www.figma.com/file/lwMNjHdzFgPeT2C35ciW1V/App?t=jl7c1NWofg3D6o0b-1 )
 
 ### Документация:
 - [Техническое задание]( https://github.com/SummerFreezingMe/TicketShop/blob/main/Документация/Техническое%20задание.pdf ) 
