@@ -31,8 +31,10 @@
 - [Видеопрезентация проекта]( https://drive.google.com/file/d/1KN6p7NfoB-TfHze3PVuS3FESAv52aVpG/view) 
 - [Swagger](https://test-backend-telb.onrender.com/swagger-ui/index.html#)
 - [Сопроводительное письмо](https://github.com/TP-4-2-4/TicketShop/blob/main/Сопроводительное%20письмо.md)
+- [Отчёт по ролям](https://github.com/TP-4-2-4/TicketShop/blob/main/Документация/Отчёт%20по%20ролям.docx)
 
 ### Данные для входа:
+- [APK](https://drive.google.com/drive/folders/1YcwPckmmGti4AcKnOOUu4Qhw5yoB2H0g?usp=sharing)
 * Администратор: Логин - admin, пароль - 1337
 * Пользователь: Логин - vasya, пароль - vasya
 
