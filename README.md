@@ -32,3 +32,7 @@
 - [Swagger](https://test-backend-telb.onrender.com/swagger-ui/index.html#)
 - [Сопроводительное письмо](https://github.com/TP-4-2-4/TicketShop/blob/main/Сопроводительное%20письмо.md)
 
+### Данные для входа:
+* Администратор: Логин - admin, пароль - 1337
+* Пользователь: Логин - vasya, пароль - vasya
+
