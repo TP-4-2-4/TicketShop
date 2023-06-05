@@ -30,5 +30,5 @@
 - [Курсовой проект]( https://github.com/SummerFreezingMe/TicketShop/blob/main/Документация/Курсовой%20проект.pdf ) 
 - [Видеопрезентация проекта]( https://drive.google.com/file/d/1KN6p7NfoB-TfHze3PVuS3FESAv52aVpG/view) 
 - [Swagger](https://test-backend-telb.onrender.com/swagger-ui/index.html#)
-
+- [Сопроводительное письмо](https://github.com/TP-4-2-4/TicketShop/blob/main/Сопроводительное%20письмо.md)
 
