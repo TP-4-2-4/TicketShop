@@ -18,7 +18,6 @@
 ### Модули приложения:
 * [Frontend](https://github.com/TP-4-2-4/CityConcert_Frontend)
 * [Backend](https://github.com/TP-4-2-4/CityConcert_Backend)
-* [Deploy](https://github.com/TP-4-2-4/CityConcert_Deploy)
 
 ### Вспомогательные сервисы:
 - [Miro]( https://miro.com/app/board/uXjVPi8gZWo=/?share_link_id=370845836904 )                
@@ -37,4 +36,8 @@
 - [APK](https://drive.google.com/drive/folders/1YcwPckmmGti4AcKnOOUu4Qhw5yoB2H0g?usp=sharing)
 * Администратор: Логин - admin, пароль - 1337
 * Пользователь: Логин - vasya, пароль - vasya
+
+### Видео:
+* [Backend](https://www.youtube.com/watch?v=gUstPM6cwXA)
+* [Deploy](https://www.youtube.com/watch?v=4jfbzu8hZHA)
 
