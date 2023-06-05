@@ -29,6 +29,6 @@
 - [Техническое задание]( https://github.com/SummerFreezingMe/TicketShop/blob/main/Документация/Техническое%20задание.pdf ) 
 - [Курсовой проект]( https://github.com/SummerFreezingMe/TicketShop/blob/main/Документация/Курсовой%20проект.pdf ) 
 - [Видеопрезентация проекта]( https://drive.google.com/file/d/1KN6p7NfoB-TfHze3PVuS3FESAv52aVpG/view) 
-- [Swagger](https://cityconcertbackend-production.up.railway.app/swagger-ui/index.html#)
+- [Swagger](https://test-backend-telb.onrender.com/swagger-ui/index.html#)
 
 
